@@ -1,0 +1,12 @@
+# venv311
+venv*/
+
+# png
+training_images/
+inference_images/
+
+# checkpoints
+checkpoints/
+
+# cache
+*.pyc
